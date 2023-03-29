@@ -1,5 +1,7 @@
 ### Hi there 👋
-
+Je suis étudiant de Sayna
+Je cherche à m'intégrer un peu plus dans le monde digital
+Je ne connais pas les codes mais j'espère en savoir  plus à l'issus de cette formation
 <!--
 **CedricHAMBA/CedricHAMBA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
